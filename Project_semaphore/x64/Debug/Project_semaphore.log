@@ -1,0 +1,9 @@
+﻿  sem_rw_lock.h
+  sem_rw_lock.cpp
+f:\vs_program\c++\project_semaphore\project_semaphore\sem_rw_lock.cpp(6): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“std::thread::id”
+f:\vs_program\c++\project_semaphore\project_semaphore\sem_rw_lock.cpp(11): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“std::thread::id”
+  main.cpp
+  正在生成代码...
+x64\Debug\sem_rw_lock.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+main.obj : error LNK2019: 无法解析的外部符号 "void __cdecl test1222(void)" (?test1222@@YAXXZ)，该符号在函数 main 中被引用
+F:\VS_program\c++\Project_semaphore\x64\Debug\Project_semaphore.exe : fatal error LNK1120: 1 个无法解析的外部命令

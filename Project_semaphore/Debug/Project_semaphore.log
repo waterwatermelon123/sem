@@ -1,0 +1,3 @@
+﻿Debug\sem_rw_lock.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  Project_semaphore.vcxproj -> F:\VS_program\c++\Project_semaphore\Debug\Project_semaphore.exe
+  Project_semaphore.vcxproj -> F:\VS_program\c++\Project_semaphore\Debug\Project_semaphore.pdb (Partial PDB)
